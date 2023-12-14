@@ -1,0 +1,5 @@
+eslint
+@react-native-community/eslint-config
+@react-native/eslint-config
+@typescript-eslint/parser
+eslint-plugin-import
